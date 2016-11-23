@@ -4,8 +4,8 @@ It provides word definitions, synonyms etc from the command line with a single c
 
 ## Installation -
 1. Make sure you have *Node.js* and *npm* installed
-1. `npm init` inside the directory.
-2. `npm link` inside the directory.
+2. `npm install` inside this directory.
+3. `npm link` inside this directory.
 
 ## Usage -
 1. `dict def <word>` -  To get the word definition.
