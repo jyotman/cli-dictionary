@@ -1,4 +1,4 @@
-LI Dictionary
+# CLI Dictionary
 
 It provides word definitions, synonyms etc from the command line with a single command.
 
